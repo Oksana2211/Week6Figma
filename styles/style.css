@@ -1,0 +1,33 @@
+header {
+  font-family: "Cormorant Infant", serif;
+}
+
+/* Разное */
+a:nth-child(2) {
+  color: rgb(77, 8, 83);
+  font-weight: 700;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+}
+a:focus {
+  color: rgb(228, 79, 190);
+}
+:link {
+  color: rgb(250, 250, 250);
+}
+.number:hover {
+  color: #523a64;
+}
+h2:hover {
+  color: rgb(55, 4, 75);
+}
+@keyframes video {
+  from {
+    left: 50%;
+  }
+  to {
+    right: 20%;
+  }
+}
