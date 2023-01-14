@@ -24,7 +24,7 @@
   grid-row: 1 / 2;
   grid-column: 2 / 3;
 }
-.a-header {
+.a {
   padding-left: 50px;
   color: #363431;
   text-decoration-line: none;
@@ -104,27 +104,27 @@
   grid-row: 1 / 2;
   grid-column: 1 / 6;
 }
-.row2col1 {
+.cell1 {
   grid-area: row2col1;
   grid-row: 2 / 3;
   grid-column: 1 / 2;
 }
-.row2col2 {
+.cell2 {
   grid-area: row2col2;
   grid-row: 2 / 3;
   grid-column: 2 / 3;
 }
-.row2col3 {
+.cell3 {
   grid-area: row2col3;
   grid-row: 2 / 3;
   grid-column: 3 / 4;
 }
-.row2col4 {
+.cell4 {
   grid-area: row2col4;
   grid-row: 2 / 3;
   grid-column: 4 / 5;
 }
-.row2col5 {
+.cell5 {
   grid-area: row2col5;
   grid-row: 2 / 3;
   grid-column: 5 / 6;
@@ -209,7 +209,7 @@
   grid-template-rows: minmax(100px, 1fr);
   grid-template-areas:
     "row1 row1"
-    "img5 text";
+    "img5 text1";
   text-align: left;
   color: #363431;
   background: #e5e5e5;
