@@ -45,7 +45,7 @@ address {
   width: 17vw;
 }
 .base {
-  background-image: url("../assets/FonHeader.jpg");
+  background-image: url("assets/FonHeader.jpg");
   background-size: cover;
   grid-area: base;
   grid-row: 2 / 3;
