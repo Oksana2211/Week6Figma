@@ -45,7 +45,7 @@ address {
   width: 17vw;
 }
 .base {
-  background-image: url("assets/FonHeader.jpg");
+  background-image: url("../assets/FonHeader.jpg");
   background-size: cover;
   grid-area: base;
   grid-row: 2 / 3;
@@ -154,7 +154,7 @@ address {
   color: #363431;
 }
 .img1 {
-  background-image: url("assets/Rectangle52.png");
+  background-image: url("../assets/Rectangle52.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 40vw;
@@ -165,7 +165,7 @@ address {
   height: 100%;
 }
 .img2 {
-  background-image: url("assets/Rectangle8.png");
+  background-image: url("../assets/Rectangle8.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 33vw;
@@ -175,7 +175,7 @@ address {
   grid-column: 3 / 5;
 }
 .img3 {
-  background-image: url("assets/Rectangle6.png");
+  background-image: url("../assets/Rectangle6.png");
   background-repeat: no-repeat;
   background-size: cover;
   grid-area: img3;
@@ -185,7 +185,7 @@ address {
   height: 15vw;
 }
 .img4 {
-  background-image: url("assets/Rectangle7.png");
+  background-image: url("../assets/Rectangle7.png");
   background-repeat: no-repeat;
   background-size: cover;
   grid-area: img4;
@@ -232,7 +232,7 @@ address {
   text-align: center;
 }
 .img5 {
-  background-image: url("assets/image_body.jpg");
+  background-image: url("../assets/image_body.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 27vw;
